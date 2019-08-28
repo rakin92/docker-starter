@@ -6,7 +6,8 @@ This repo provides a basic samples to get started with containerizing your proje
 
 #### Support
 * GoLang
-* React
+* ReactJS
+* VueJS
 * Postgres
 * Python
 * Node
